@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+"MountingHole_Pad","H1,H2,H3","MountingHole:MountingHole_2.5mm_Pad_Via",""
+"Micro_SD_Card","J1","Other footprints:3d_MODEL_microSD_HC_Molex_104031-0811","C585350"
+"Conn_02x20_Odd_Even","J2","Connector_PinSocket_2.00mm:PinSocket_2x20_P2.00mm_Vertical",""
+"TERM_ENABLE_GND","JP1","Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical",""
+"TERM_VCC_ENABLE","JP2","Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical",""
+"330","R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","C17930"
+"220","R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","C17957"
+"YAAJ_BluePill_Part_Like","U1","Footprints:YAAJ_BluePill_1",""
